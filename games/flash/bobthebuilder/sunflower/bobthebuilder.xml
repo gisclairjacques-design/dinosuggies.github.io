@@ -1,0 +1,262 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<bob>
+      <sounds>
+            <intro>
+                  <sound display='Click on Spud if you want to play.' linkage='clickSpud'/>
+                  <sound display='Click on the red toolbox if you want to build.' linkage='clickToolbox'/>
+                  <sound display='Hello and thank you for coming!' linkage='hello'/>
+                  <sound display='Or you can play right away!' linkage='orPlay'/>
+                  <sound display="We're building a park in sunflower valley, and we'd love you to help us." linkage='wereBuilding'/>
+                  <sound display='Do you want to help Bob or Wendy?' linkage='muckChoose'/>
+            </intro>
+            <playgroundhome>
+                  <sound display="Let's play and have some fun!" linkage='playAndFun'/>
+                  <sound display='Use your arrows to explore and choose something to play on.' linkage='useArrows2'/>
+                  <sound display="Let's explore again!" linkage='exploreAgain'/>
+                  <sound display='I hope you can come back soon!' linkage='comeBackSoon2'/>
+                  <sound display='Oh.... good choice!' linkage='goodChoice'/>
+                  <sound display='Thank you for playing with me!' linkage='thanksForPlaying'/>
+                  <sound display="Let's play!" linkage='letsPlay'/>
+                  <sound display="Let's explore and find somewhere else to play." linkage='letsExplore'/>
+            </playgroundhome>
+            <game1>
+                  <sound display='Choose Bob or Wendy to play with.' linkage='chooseBobOrWendy'/>
+                  <sound display="Pilchard's stuck!" linkage='pilchardStuck'/>
+                  <sound display='Press your space bar to make the swing go high enough to rescue her.' linkage='pressYourSpace'/>
+                  <sound display='Then she can jump off.' linkage='jumpOff'/>
+                  <sound display="Don't worry pilchard!" linkage='dontWorry'/>
+                  <sound display='Well done!' linkage='wellDone6'/>
+                  <sound display='Got You!' linkage='gotYou'/>
+                  <sound display="Now Pilchard's safe!" linkage='pilchardSafe'/>
+                  <sound display='Never mind.' linkage='neverMind2'/>
+                  <sound display='Keep trying!' linkage='keepTrying'/>
+                  <sound display='You nearly got there!' linkage='nearlyThere2'/>
+                  <sound display='Just a bit higher!' linkage='bitHigher'/>
+            </game1>
+            <game2>
+                  <sound display='Click on Pilchard, Scrufty or me to start the see-saw game.' linkage='start'/>
+                  <sound display="Now we've got to balance the see-saw with rabbits." linkage='nowBalance'/>
+                  <sound display="Click on the rabbits to put them on the see-saw until it's balanced." linkage='clickRabbits'/>
+                  <sound display='Hop, hop, hop little rabbits!' linkage='hopHop'/>
+                  <sound display='How many rabbits will balance it?' linkage='howMany'/>
+                  <sound display="Be quick, or they'll jump off!" linkage='beQuick'/>
+                  <sound display='Well done!' linkage='wellDone6'/>
+                  <sound display='We need another rabbit!' linkage='anotherRabbit'/>
+                  <sound display='Oh no, a rabbit jumped off!' linkage='rabbitOff'/>
+                  <sound display='Put the rabbit back on.' linkage='rabbitBackOn'/>
+                  <sound display='Never mind!' linkage='neverMind2'/>
+                  <sound display='Come back rabbit!' linkage='comeBackRabbit'/>
+            </game2>
+            <game3>
+                  <sound display='I can help you play this game!' linkage='iCanHelp'/>
+                  <sound display="I'm not helping you play, you're too clever!" linkage='tooClever'/>
+                  <sound display="Ah-ha-ha-ha-ha-haaa! Oh... that's funny!" linkage='laugh'/>
+                  <sound display='Press your space bar to help me jump onto my monkey bars.' linkage='pressSpaceBar'/>
+                  <sound display='Press your right arrow key to help me move along.' linkage='rightArrow'/>
+                  <sound display='Press your down arrow key to help me slide down!' linkage='downArrow'/>
+                  <sound display='Oooh! Ow!' linkage='fall2'/>
+                  <sound display="We weren't quick enough." linkage='notQuick'/>
+                  <sound display='Press your space bar to help me move along.' linkage='spaceBar2'/>
+                  <sound display="Never mind, press your space bar and I'll jump back onto my monkey bars." linkage='neverMind'/>
+                  <sound display='Whee! What fun!' linkage='fun'/>
+                  <sound display='I love monkey bars!' linkage='monkeyLove'/>
+                  <sound display='I love climbing frames!' linkage='frameLove'/>
+                  <sound used='' display='Thank you ever so much for your help!' linkage='thankYou2'/>
+                  <sound display='I love slides!' linkage='slideLove'/>
+                  <sound display='Oh, I love climbing frames!' linkage='loveClimbFrames'/>
+                  <sound display='Never mind!' linkage='neverMind2'/>
+                  <sound display='Choose the easy or the hard game.' linkage='easyOrHard'/>
+            </game3>
+            <game4>
+                  <sound display='Help Bob feed bird.' linkage='helpBob'/>
+                  <sound display='Help Wendy feed bird.' linkage='helpWendy'/>
+                  <sound display='Use your arrows to help bird catch the lovely food!' linkage='useArrows3'/>
+                  <sound display='Well done!' linkage='wellDone7'/>
+                  <sound display="Bird's really happy!" linkage='birdsHappy'/>
+                  <sound display='Never mind!' linkage='neverMind2'/>
+                  <sound display='Ooh! That was a close one!' linkage='closeOne'/>
+                  <sound display='Nearly!' linkage='nearly'/>
+            </game4>
+            <game5>
+                  <sound display='Whee!' linkage='wheee'/>
+                  <sound display="Oh no! I'm ever so sorry!" linkage='sorry'/>
+                  <sound display='I can.' linkage='thinkSo'/>
+                  <sound display="They've all fallen into the pond!" linkage='allFallen'/>
+                  <sound display='Never mind!' linkage='neverMind2'/>
+                  <sound display='Can someone help me get them out?' linkage='someoneHelp'/>
+                  <sound display="Don't tell Bob, will you?" linkage='dontTellBob'/>
+                  <sound display='Oh thanks ever so much for helping!' linkage='thanksSoMuch'/>
+                  <sound display="I promise I'll be more careful next time." linkage='promise'/>
+                  <sound display='Lofty, can you help me please?' linkage='helpLofty'/>
+                  <sound display='Use your arrows to guide his magnet to the things in the pond.' linkage='arrowKeyGuide'/>
+                  <sound display="Now use your arrows to guide his magnet to the jar, and he'll drop them back in." linkage='guideJar'/>
+                  <sound display="We've nearly finished!" linkage='nearlyFinished'/>
+                  <sound display="We've tidied up the whole pond!" linkage='tidiedUp'/>
+            </game5>
+            <build>
+                  <sound used='true' display='Thank you!' linkage='thankYou'/>
+                  <sound used='true' display='Quick! Click on the watering can.' linkage='clickCan'/>
+                  <sound used='true' display='Oh dear! The flowers are drooping! They must be thirsty.' linkage='droopyFlowers'/>
+                  <sound used='true' display='Oh no! Glass is too sharp for the park. Recycle it in the bottle bank.' linkage='glassIsTooSharp'/>
+                  <sound used='true' display='Click on each thing and then click on the picture to load it into my trailer.' linkage='clickOnEachThing'/>
+                  <sound used='true' display='Corrugated roof.' linkage='corrugatedRoof'/>
+                  <sound used='true' display='A ladder' linkage='ladder'/>
+                  <sound used='true' display="Let's re-use these things to build our park." linkage='letsReuseTheseThings'/>
+                  <sound used='true' display='A log.' linkage='log'/>
+                  <sound used='true' display='A plank.' linkage='plank'/>
+                  <sound used='true' display='A plastic sheet.' linkage='plasticSheet'/>
+                  <sound used='true' display='A wooden pole' linkage='pole'/>
+                  <sound used='true' display='A rope' linkage='rope'/>
+                  <sound used='true' display='Send it to the bottle bank!' linkage='sendItToTheBottleBank'/>
+                  <sound used='true' display='A slide.' linkage='slide'/>
+                  <sound used='true' display='Some wood.' linkage='someWood'/>
+                  <sound used='true' display='A tall log.' linkage='tallLog'/>
+                  <sound used='true' display='A tyre.' linkage='tyre'/>
+                  <sound used='true' display='What a mess!' linkage='whatAMess'/>
+                  <sound used='true' display='Use your arrows to explore the park.' linkage='explorePark'/>
+                  <sound used='true' display='Use the arrows to see the things in my trailer.' linkage='useArrows'/>
+                  <sound used='true' display='Click on it to use it' linkage='clickToUse'/>
+                  <sound used='true' display='Well done!' linkage='wellDone'/>
+                  <sound used='true' display="That's right!" linkage='thatsRight'/>
+                  <sound used='true' display='Great!' linkage='great'/>
+                  <sound used='true' display="That'll come in handy!" linkage='comeInHandy'/>
+                  <sound used='true' display='Use your arrows to find some more things.' linkage='findMoreThings'/>
+                  <sound used='true' display="I'm on my way!" linkage='imOnMyWay'/>
+                  <sound used='true' display='Just one more thing to load.' linkage='justOneMoreThing'/>
+                  <sound used='' display='Try again.' linkage='tryAgain'/>
+                  <sound used='' display='Use your arrows to keep looking.' linkage='keepLooking'/>
+                  <sound used='true' display="Let's get the next thing out of my trailer." linkage='nextThingOut'/>
+                  <sound used='' display='Nearly there!' linkage='nearlyThere'/>
+                  <sound used='' display='Try again!' linkage='tryAgain2'/>
+                  <sound used='true' display='Oh! Not there, have a another go!' linkage='oooNotThere'/>
+                  <sound used='true' display="We've built a great climbing frame!" linkage='climbFrame'/>
+                  <sound used='true' display="We've built a perfect pond!" linkage='pond'/>
+                  <sound used='true' display="We've built a super see-saw!" linkage='seeSaw'/>
+                  <sound used='true' display="We've built a smashing swing!" linkage='swing'/>
+                  <sound used='true' display="We've built a terrific tree house!" linkage='treeHouse'/>
+                  <sound used='true' display="Now we're ready to build!" linkage='readyToBuild'/>
+                  <sound used='true' display='Click on this and put it in the right place.' linkage='rightPlace'/>
+                  <sound used='' display="It's nearly bedtime." linkage='bedTime'/>
+                  <sound used='true' display="If you want to build something else, let's explore the park!" linkage='buildSomethingElse'/>
+                  <sound used='true' display="Oh, it's getting dark." linkage='gettingDark'/>
+                  <sound used='' display='If you want to play on this, click on Spud.' linkage='clickSpud'/>
+                  <sound used='' display='Well done!' linkage='wellDone2'/>
+                  <sound used='true' display='Well done, that was a good days work!' linkage='goodDayWork'/>
+                  <sound used='' display="Well done, that's been a good days work." linkage='wellDoneGoodWork'/>
+                  <sound used='' display='See you again soon!' linkage='seeYouSoon'/>
+                  <sound used='' display='Come back soon!' linkage='comeBackSoon'/>
+                  <sound used='true' display='Well done everyone!' linkage='wellDone3'/>
+                  <sound used='true' display='Good night!' linkage='goodNight'/>
+                  <sound used='' display="That's right!" linkage='thatsRight2'/>
+                  <sound used='' display='But is it too long?' linkage='tooLong'/>
+                  <sound used='' display="Let's make it the right size." linkage='rightSize'/>
+                  <sound used='' display='How many do we need to hold up the ladder?' linkage='holdUpLadder'/>
+                  <sound used='true' display='A handle is loose.' linkage='looseHandle'/>
+                  <sound used='' display='We need the hammer!' linkage='needHammer'/>
+                  <sound used='true' display='Click on the hammer to fix in the handle.' linkage='clickOnHammer'/>
+                  <sound used='true' display='Tree house!' linkage='treeHouse2'/>
+                  <sound used='true' display='Swing!' linkage='swing2'/>
+                  <sound used='true' display='See-saw!' linkage='seeSaw2'/>
+                  <sound used='true' display='Pond!' linkage='pond2'/>
+                  <sound used='true' display='Climbing frame!' linkage='climbingFrame2'/>
+                  <sound used='true' display="Let's paint it!" linkage='letsPaint'/>
+                  <sound used='true' display="Now let's paint it!" linkage='paintIt'/>
+                  <sound used='' display='Click on the paint brush.' linkage='clickPaintBrush'/>
+                  <sound used='true' display='Choose a colour.' linkage='chooseColour'/>
+                  <sound used='true' display='Can Scoop dig it?' linkage='canScoopDig'/>
+                  <sound used='true' display='Click on the plastic sheet and put it in the hole.' linkage='clickPlasticSheet'/>
+                  <sound used='' display='Well done!' linkage='wellDone4'/>
+                  <sound used='' display='Well done.' linkage='wellDone5'/>
+                  <sound used='' display='Good work!' linkage='goodWork'/>
+                  <sound used='' display='Great!' linkage='great'/>
+                  <sound used='' display="You're really good!" linkage='reallyGood'/>
+                  <sound used='true' display="Great, but it's too long." linkage='tooLong'/>
+                  <sound used='' display="It's too long!" linkage='tooLong2'/>
+                  <sound used='true' display='Use the saw to make it the right length.' linkage='rightLength'/>
+                  <sound used='' display='Use the saw!' linkage='useSaw'/>
+                  <sound used='' display='We need the saw!' linkage='needSaw'/>
+                  <sound used='' display='Click on the saw and put it on the dotted line.' linkage='dottedLine'/>
+                  <sound used='' display="We need something else first, so that we won't fall down!" linkage='weFall'/>
+                  <sound used='true' display="We need something else first, so that it won't all fall down!" linkage='allFall'/>
+                  <sound used='' display='Dig! Dig! Dig!' linkage='dig'/>
+                  <sound used='' display='Watch me dig this lovely pond!' linkage='lovelyPond'/>
+                  <sound used='' display='Watch me dig!' linkage='watchDig'/>
+                  <sound used='' display='Now I think I need something else.' linkage='whatElse'/>
+                  <sound used='true' display='Yes I can!' linkage='yesCan'/>
+                  <sound used='' display='Well done!' linkage='wellDone5'/>
+                  <sound used='' display='Good night!' linkage='goodnightMuck'/>
+                  <sound used='' display='Good night!' linkage='goodnightSpud'/>
+                  <sound used='true' display='Good night!' linkage='goodnightLofty'/>
+                  <sound used='true' display='Good night!' linkage='goodnightRoley'/>
+                  <sound used='true' display='Good night!' linkage='goodnightScoop'/>
+            </build>
+      </sounds>
+      <rawmaterials>
+            <rawmaterial soundfile='rope' playItemDisplay='Swing' name='swingRope' done='false' collected='false' displayname='Rope' playItem='swing'/>
+            <rawmaterial soundfile='tyre' playItemDisplay='Swing' name='swingTyre' colour='true' ypos='186' done='false' collected='false' displayname='Tyre' playItem='swing'/>
+            <rawmaterial soundfile='plank' playItemDisplay='See-saw' name='seeSawPlank' colour='true' done='false' collected='false' displayname='Plank' playItem='seeSaw' hammer='true'/>
+            <rawmaterial soundfile='log' playItemDisplay='See-saw' name='seeSawTreeTrunk' colour='true' done='false' collected='false' displayname='Log' playItem='seeSaw'/>
+            <rawmaterial soundfile='ladder' playItemDisplay='Climbing frame' name='climbingFrameLadder' colour='true' done='false' collected='false' displayname='Ladder' playItem='climbingFrame'/>
+            <rawmaterial soundfile='slide' playItemDisplay='Climbing frame' name='climbingFrameSlide' done='false' collected='false' displayname='Slide' playItem='climbingFrame'/>
+            <rawmaterial soundfile='tallLog' playItemDisplay='Climbing frame' name='climbingFrameLog1' colour='true' done='false' collected='false' displayname='Tall log' playItem='climbingFrame' saw='true'/>
+            <rawmaterial soundfile='tallLog' playItemDisplay='Climbing frame' name='climbingFrameLog2' colour='true' done='false' collected='false' displayname='Tall log' playItem='climbingFrame' saw='true'/>
+            <rawmaterial soundfile='someWood' playItemDisplay='Tree house' name='treeHouseHardboard' colour='true' done='false' collected='false' displayname='Some wood' playItem='treeHouse'/>
+            <rawmaterial soundfile='someWood' playItemDisplay='Tree house' name='treeHousePalett' colour='true' done='false' collected='false' displayname='Some wood' playItem='treeHouse'/>
+            <rawmaterial soundfile='corrugatedRoof' playItemDisplay='Tree house' name='treeHouseRoof' done='false' collected='false' displayname='Roof' playItem='treeHouse'/>
+            <rawmaterial soundfile='log' playItemDisplay='Tree house' name='treeHousePole' colour='true' done='false' collected='false' displayname='Log' playItem='treeHouse' saw='true'/>
+            <rawmaterial soundfile='plasticSheet' playItemDisplay='Pond' name='poolTarpaulin' done='false' collected='false' displayname='Plastic sheet' playItem='pool'/>
+            <rawmaterial collected='false' soundfile='glassIsTooSharp' playItem='none' displayname='Bottle' name='bottle'/>
+      </rawmaterials>
+      <playItems>
+            <playItem displayname='Swing' done='false' name='swing' numberOfMaterials='2'/>
+            <playItem displayname='See-Saw' done='false' name='seeSaw' numberOfMaterials='2'/>
+            <playItem displayname='Climbing Frame' done='false' name='climbingFrame' numberOfMaterials='6'/>
+            <playItem displayname='Tree House' done='false' name='treeHouse' numberOfMaterials='5'/>
+            <playItem displayname='Pond' done='false' name='pool' numberOfMaterials='1'/>
+      </playItems>
+      <positions>
+            <rawmaterial xpos='45' playItemCode='1' name='swingRope' ypos='80'/>
+            <rawmaterial xpos='36' playItemCode='1' name='swingTyre' ypos='171'/>
+            <rawmaterial xpos='29' playItemCode='2' name='seeSawPlank' ypos='134'/>
+            <rawmaterial xpos='37' playItemCode='2' name='seeSawTreeTrunk' ypos='159'/>
+            <rawmaterial xpos='51' playItemCode='3' name='climbingFrameLadder' ypos='59'/>
+            <rawmaterial xpos='136' playItemCode='3' name='climbingFrameSlide' ypos='181'/>
+            <rawmaterial xpos='0' playItemCode='3' name='climbingFrameLog1-1' ypos='139'/>
+            <rawmaterial xpos='-34' playItemCode='3' name='climbingFrameLog1-2' ypos='129'/>
+            <rawmaterial xpos='136' playItemCode='3' name='climbingFrameLog2-1' ypos='139'/>
+            <rawmaterial xpos='98' playItemCode='3' name='climbingFrameLog2-2' ypos='131'/>
+            <rawmaterial xpos='50' playItemCode='4' name='treeHousePalett' ypos='97'/>
+            <rawmaterial xpos='91' playItemCode='4' name='treeHouseHardboard' ypos='69'/>
+            <rawmaterial xpos='68' playItemCode='4' name='treeHouseRoof' ypos='34'/>
+            <rawmaterial xpos='45' playItemCode='4' name='treeHousePole-1' ypos='61'/>
+            <rawmaterial xpos='12' playItemCode='4' name='treeHousePole-2' ypos='80'/>
+            <rawmaterial xpos='90' playItemCode='5' name='poolTarpaulin' ypos='170'/>
+      </positions>
+      <minigames>
+            <minigame name='swing'>
+                  <instructions>
+                        <![CDATA[How to play <br><br>Use your space bar to make the swing go high enough so that Pilchard can jump off it and be rescued.<br>Just keep holding your space bar until she can jump off!]]>
+                  </instructions>
+            </minigame>
+            <minigame name='seeSaw'>
+                  <instructions>
+                        <![CDATA[How to play <br><br>Choose Pilchard, Srufty or Spud to play on the see-saw.  Then balance the see-saw with the rabbits.  <br>Click on the rabbits and they’ll hop on, but be quick or they’ll jump off!  <br>You need two rabbits for Pilchard, three for Scrufty and four for Spud. ]]>
+                  </instructions>
+            </minigame>
+            <minigame name='climbingFrame'>
+                  <instructions>
+                        <![CDATA[How to play <br><br>Use your space bar to help Spud jump onto the bars.  Use your right arrow key to move him along, your space bar to help him jump from bar to slide and your down arrow key to help him down the slide. <br>The easy version has instructions, the hard version doesn’t.]]>
+                  </instructions>
+            </minigame>
+            <minigame name='treeHouse'>
+                  <instructions>
+                        <![CDATA[How to play <br><br>Use all your arrow keys to help Bird catch the crumbs that are being thrown up to to him.]]>
+                  </instructions>
+            </minigame>
+            <minigame name='pool'>
+                  <instructions>
+                        <![CDATA[How to play <br><br>Spud has spilled nuts and bolts into the pond!  <br>Use your arrow keys to guide Lofty’s magnet to take the things out of the pond and put them back into the jar.]]>
+                  </instructions>
+            </minigame>
+      </minigames>
+</bob>
