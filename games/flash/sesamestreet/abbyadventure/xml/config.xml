@@ -1,6 +1,6 @@
 <configData>
 	<debug>
-		<playset/>
+		<playset></playset>
 	</debug>
 
 	<timer>
@@ -131,7 +131,6 @@
 			<spots>2</spots>
 			<syllables>1</syllables>
 		</playable>
-		
 		<playable>
 			<name>carrot</name>
 			<swf>playables/farm/carrot.swf</swf>
@@ -140,7 +139,6 @@
 			<spots>10</spots>
 			<syllables>2</syllables>
 		</playable>
-		
 		<playable>
 			<name>hen</name>
 			<swf>playables/farm/hen.swf</swf>
@@ -219,12 +217,12 @@
 		<playset>
 			<name>B</name>
 			<correct>bunny,bee,barn,beans</correct>
-			<incorrect>cat,cow,corn,carrot,hen,hay,mouse,muffin,milk,pond,pig,plant</incorrect>
+			<incorrect>cat,cow,corn,carrot,hen,horse,hay,mouse,muffin,milk,pond,pig,plant</incorrect>
 		</playset>
 		<playset>
 			<name>C</name>
 			<correct>cat,cow,corn,carrot</correct>
-			<incorrect>barn,bunny,bee,beans,hen,hay,mouse,muffin,milk,pond,pig,plant</incorrect>			
+			<incorrect>barn,bunny,bee,beans,horse,hay,mouse,muffin,milk,pond,pig,plant</incorrect>
 		</playset>
 		<playset>
 			<name>H</name>
@@ -234,12 +232,12 @@
 		<playset>
 			<name>M</name>
 			<correct>mouse,muffin,milk</correct>
-			<incorrect>barn,bunny,bee,beans,cat,cow,corn,carrot,hen,hay,pond,pig,plant</incorrect>
+			<incorrect>barn,bunny,bee,beans,cat,cow,corn,carrot,hen,horse,hay,pond,pig,plant</incorrect>
 		</playset>
 		<playset>
 			<name>P</name>
 			<correct>pond,pig,plant</correct>
-			<incorrect>bunny,bee,barn,beans,cat,cow,corn,carrot,hen,hay,mouse,muffin,milk</incorrect>
+			<incorrect>bunny,bee,barn,beans,cat,cow,corn,carrot,horse,hay,mouse,muffin,milk</incorrect>
 		</playset>
 	</habitat>
 
