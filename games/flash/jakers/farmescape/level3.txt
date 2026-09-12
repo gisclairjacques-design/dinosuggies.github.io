@@ -1,0 +1,1 @@
+total_sheep=0&total_hens=3&total_goats=0&total_minutes=0&total_seconds=30&flag=1
